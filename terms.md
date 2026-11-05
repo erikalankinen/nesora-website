@@ -17,7 +17,7 @@ Nesora offers both free and optional Pro features.
 
 The free version includes up to two savings goals, basic budgeting, transaction recording, and total savings tracking.
 
-Nesora Pro provides access to additional features, including unlimited savings goals, advanced charts, extended history, savings forecasts, supported customization options, and CSV/PDF exports.
+Nesora Pro provides access to additional features, including unlimited savings goals, advanced charts and trends, extended historical data, savings goal forecasts, and CSV/PDF exports.
 
 ## 3. Subscriptions
 
@@ -47,7 +47,11 @@ Users are responsible for reviewing the accuracy of the information they enter.
 
 Nesora stores financial information locally on the user's device.
 
-Users are encouraged to maintain their own backups using the provided export functionality.
+Users can create JSON backups using the app's backup functionality. JSON backups can be imported into Nesora to restore supported financial records.
+
+CSV and PDF exports are intended for viewing, reporting, and sharing financial information. They cannot be imported into Nesora to restore application data.
+
+Users are responsible for keeping their backup files in a secure location.
 
 ## 6. Application License
 
