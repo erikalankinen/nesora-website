@@ -66,4 +66,4 @@ The latest version will be made available on this page.
 
 For privacy-related questions, contact:
 
-**[YOUR SUPPORT EMAIL]**
+**nesora.app@gmail.com**
